@@ -1,0 +1,40 @@
+const TeacherDetailAssesApi = [
+    {
+        id:1,
+        student:"Lorem",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+    {
+        id:2,
+        student:"Ipsum",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+    {
+        id:3,
+        student:"Dolor",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+    {
+        id:4,
+        student:"Amit",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+    {
+        id:5,
+        student:"Antoine",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+    {
+        id:6,
+        student:"Garson",
+        submission:"Submitted",
+        detil:"Reports"
+    },
+]
+
+export default TeacherDetailAssesApi;
